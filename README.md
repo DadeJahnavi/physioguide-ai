@@ -25,6 +25,13 @@ Fusion Logic (Decision Engine)
         ↓
 Real-Time Feedback + Dashboard (Streamlit)
 ```
+## 🧩 System Architecture
+
+![System Architecture](assets/architecture.png)
+
+## 🔄 Methodology Pipeline
+
+![Methodology](assets/methodology.png)
 
 ---
 
