@@ -25,7 +25,6 @@ Fusion Logic (Decision Engine)
         ↓
 Real-Time Feedback + Dashboard (Streamlit)
 ```
-## 🧩 System Architecture
 
 ![System Architecture](assets/architecture.png)
 
@@ -70,6 +69,9 @@ The system demonstrates strong performance across multiple components:
 * Confusion matrices
 * Accuracy plots
   → Available in the `results/` directory
+
+![Confusion Matrix](results/pose_confusion_matrix.png)
+![Accuracy](results/pose_accuracy.png)
 
 ---
 
