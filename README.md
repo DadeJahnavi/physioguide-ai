@@ -1,4 +1,5 @@
 # 🧠 PhysioGuide - AI-Powered Rehabilitation Monitoring System
+> A low-cost, real-time hybrid sensing system combining IMU and computer vision for scalable rehabilitation monitoring.
 
 ## 🚀 Overview
 
