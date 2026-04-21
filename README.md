@@ -29,6 +29,8 @@ Real-Time Feedback + Dashboard (Streamlit)
 
 <p align="center">
   <img src="assets/architecture.png" width="700"/>
+  <br/>
+  <em>Figure: Multi-modal fusion architecture combining IMU and vision pipelines</em>
 </p>
 
 ## 🔄 Methodology Pipeline
