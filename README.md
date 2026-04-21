@@ -9,6 +9,11 @@ Originally conceptualized as a multi-IMU wearable, this project evolved into a *
 
 ---
 
+## 🎯 Problem Statement
+
+Traditional rehabilitation systems lack real-time feedback and accessibility, especially for home-based therapy. This project aims to bridge that gap by combining low-cost sensing (IMU) with AI-driven analysis to provide continuous, intelligent monitoring.
+---
+
 ## 🧠 System Architecture
 
 ```text
