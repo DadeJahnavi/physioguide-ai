@@ -1,17 +1,17 @@
 # 🧠 PhysioGuide - AI-Powered Rehabilitation Monitoring System
 > A low-cost, real-time hybrid sensing system combining IMU and computer vision for scalable rehabilitation monitoring.
 
+## 🎯 Problem Statement
+
+Traditional rehabilitation systems lack real-time feedback and accessibility, especially for home-based therapy. This project aims to bridge that gap by combining low-cost sensing (IMU) with AI-driven analysis to provide continuous, intelligent monitoring.
+---
+
 ## 🚀 Overview
 
 PhysioGuide is an end-to-end rehabilitation monitoring system that combines **Inertial Measurement Unit (IMU) sensor data** and **computer vision** to analyze exercise performance and provide real-time feedback.
 
 Originally conceptualized as a multi-IMU wearable, this project evolved into a **multi-modal AI system** integrating sensor fusion, machine learning, and pose estimation for intelligent rehabilitation support.
 
----
-
-## 🎯 Problem Statement
-
-Traditional rehabilitation systems lack real-time feedback and accessibility, especially for home-based therapy. This project aims to bridge that gap by combining low-cost sensing (IMU) with AI-driven analysis to provide continuous, intelligent monitoring.
 ---
 
 ## 🧠 System Architecture
