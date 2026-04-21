@@ -4,6 +4,7 @@
 ## 🎯 Problem Statement
 
 Traditional rehabilitation systems lack real-time feedback and accessibility, especially for home-based therapy. This project aims to bridge that gap by combining low-cost sensing (IMU) with AI-driven analysis to provide continuous, intelligent monitoring.
+
 ---
 
 ## 🚀 Overview
