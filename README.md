@@ -64,7 +64,7 @@ Real-Time Feedback + Dashboard (Streamlit)
 
 The system demonstrates strong performance across multiple components:
 
-* **IMU Correctness Classification:** Near-perfect accuracy on windowed test data
+* **IMU Correctness Classification:** ~99% accuracy on windowed test data
 * **Exercise Classification:** ~97–98% accuracy across multiple classes
 * **Pose Model:** ~94% accuracy
 
