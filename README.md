@@ -75,8 +75,10 @@ The system demonstrates strong performance across multiple components:
 * Accuracy plots
   → Available in the `results/` directory
 
-![Confusion Matrix](results/pose_confusion_matrix.png)
-![Accuracy](results/pose_accuracy.png)
+<p align="center">
+  <img src="results/pose_confusion_matrix.png" width="500"/>
+  <img src="results/pose_accuracy.png" width="400"/>
+</p>
 
 ---
 
