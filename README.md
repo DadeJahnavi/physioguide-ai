@@ -11,7 +11,7 @@ Traditional rehabilitation systems lack real-time feedback and accessibility, es
 
 PhysioGuide is an end-to-end rehabilitation monitoring system that combines **Inertial Measurement Unit (IMU) sensor data** and **computer vision** to analyze exercise performance and provide real-time feedback.
 
-Originally conceptualized as a multi-IMU wearable, this project evolved into a **multi-modal AI system** integrating sensor fusion, machine learning, and pose estimation for intelligent rehabilitation support.
+Originally conceptualized as a multi-IMU wearable, this project evolved into a **multi-modal machine learning** system integrating **sensor fusion**, **classical ML models**, and **computer vision (pose estimation)**.
 
 ---
 
@@ -61,8 +61,8 @@ Real-Time Feedback + Dashboard (Streamlit)
 ## ⚙️ Tech Stack
 
 * **Languages:** Python
-* **ML:** scikit-learn (Random Forest)
-* **Computer Vision:** OpenCV, MediaPipe
+* **Machine Learning:** scikit-learn (Random Forest classifiers, feature-based modeling)
+* **Computer Vision:** MediaPipe (pose estimation), OpenCV
 * **Data Processing:** NumPy, Pandas
 * **Frontend / UI:** Streamlit
 * **Hardware (conceptual / integration):** ESP32, IMU sensors
