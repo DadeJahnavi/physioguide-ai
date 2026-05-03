@@ -1,5 +1,6 @@
 # 🧠 PhysioGuide - AI-Powered Rehabilitation Monitoring System
 🚀 Real-time multi-modal rehabilitation system combining IMU + computer vision + ML
+
 🏆 **2nd Place – National Level Project Competition (46+ teams)**
 📍 Presented at HKBK College of Engineering Technical Innovation Event ([TechKubik Platform](https://hkbk.techkubik.in/))
 
