@@ -104,6 +104,11 @@ Real-Time Feedback + Dashboard (Streamlit)
 * Integrated **MediaPipe pose estimation** for posture validation
 * Developed a **fusion-based decision engine** combining IMU and vision outputs
 * Built an **interactive Streamlit dashboard** for real-time monitoring
+* Designed a multi-modal fusion system combining IMU and vision inputs for robust rehabilitation feedback  
+* Implemented fallback behavior:  
+  * Vision-only mode when IMU data is unavailable  
+  * IMU-only mode with haptic feedback when camera input is absent  
+* Ensured continuous system operation under partial hardware availability (graceful degradation)
 
 ---
 
