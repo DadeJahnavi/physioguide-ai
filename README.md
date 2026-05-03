@@ -1,5 +1,5 @@
 # 🧠 PhysioGuide - AI-Powered Rehabilitation Monitoring System
-🚀 Real-time multi-modal rehabilitation system combining IMU + computer vision + ML
+🚀 Multi-modal system combining IMU sensing and computer vision for real-time rehabilitation analysis, validation, and feedback
 
 🏆 **2nd Place – National Level Project Competition (46+ teams)**
 📍 Presented at HKBK College of Engineering Technical Innovation Event ([TechKubik Platform](https://hkbk.techkubik.in/))
@@ -20,14 +20,9 @@ A low-cost, real-time hybrid sensing system combining **IMU sensors and computer
 
 ## 🎯 Problem Statement
 
-Traditional rehabilitation systems suffer from:
+Traditional rehabilitation systems lack real-time feedback and accessibility, especially for home-based therapy. Existing solutions often rely on either wearable sensors or vision systems alone, leading to limited reliability and adaptability.
 
-* Lack of real-time feedback
-* Limited accessibility for home-based therapy
-* High dependence on clinical supervision
-* Poor scalability for continuous monitoring
-
-This project addresses these gaps by building a **low-cost, AI-powered rehabilitation monitoring system** that works in real time.
+This project addresses this gap by designing a **hybrid sensing system** that combines IMU data and computer vision to enable continuous, intelligent rehabilitation monitoring.
 
 ---
 
