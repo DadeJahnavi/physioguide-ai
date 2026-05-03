@@ -1,5 +1,5 @@
 # 🧠 PhysioGuide - AI-Powered Rehabilitation Monitoring System
-
+🚀 Real-time multi-modal rehabilitation system combining IMU + computer vision + ML
 🏆 **2nd Place – National Level Project Competition (46+ teams)**
 📍 Presented at HKBK College of Engineering Technical Innovation Event ([TechKubik Platform](https://hkbk.techkubik.in/))
 
@@ -157,15 +157,32 @@ The system demonstrates strong performance:
 
 ---
 
-## 🖥️ System Snapshots
+## 🖥️ System Output
 
-This repository includes:
+### 📊 Real-Time Dashboard
 
-* Pose estimation outputs
-* Model evaluation graphs
-* Dashboard visualizations
+Displays:
+- Live posture tracking (camera input + pose estimation)
+- Exercise classification
+- Correct/incorrect execution detection
+- Node-wise IMU sensor status
 
-*(These serve as proof of system functionality in the absence of hardware deployment)*
+![Dashboard Overview](assets/dashboard_main.png)
+
+---
+
+### ⚠️ Feedback & Prediction Output
+
+Shows:
+- Per-node confidence scores
+- Incorrect movement detection
+- Real-time feedback signals for correction
+
+![Dashboard Feedback](assets/dashboard_feedback.png)
+
+---
+
+These screenshots demonstrate real-time system inference, classification, and feedback generation without requiring hardware deployment.
 
 ---
 
